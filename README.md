@@ -5,6 +5,8 @@
 2. [Motherboard Layout](#motherboard-layout)
 3. [Case Fan Layout](#Case-fan-layout)
 4. [Power Supply Connector Layout](#power-supply-connector-layout)
+5. [Build Photos](#build-photos)
+6. [Videos](#videos)
 
 ## Part List
 
@@ -41,3 +43,30 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 ## Power Supply Connector Layout
 
 ![image](https://user-images.githubusercontent.com/8367927/229332368-07e1058d-18f9-47af-bb10-f5a6eafea882.png)
+
+## Build Photos
+
+![image](https://user-images.githubusercontent.com/8367927/229332731-723fce09-5557-4f29-9068-f0812da622f1.png)
+![image](https://user-images.githubusercontent.com/8367927/229332753-ad58d810-53e5-48a7-a6f5-5e9558efbdcf.png)
+![image](https://user-images.githubusercontent.com/8367927/229332768-406a2c22-6d3b-4a2e-9c55-b9bb4903793b.png)
+![image](https://user-images.githubusercontent.com/8367927/229332786-6c484a69-f8aa-40d0-8e76-f657babd8f75.png)
+![image](https://user-images.githubusercontent.com/8367927/229332795-4b63207d-e954-446f-84c8-fb841a801a8c.png)
+![image](https://user-images.githubusercontent.com/8367927/229332804-a1507bad-d20c-4941-8834-cdbf7d663e6f.png)
+![image](https://user-images.githubusercontent.com/8367927/229332816-bc281932-39c6-41f8-b8b2-9db6df114ba3.png)
+![image](https://user-images.githubusercontent.com/8367927/229332849-2b6dbdb2-02fe-48e7-a07c-436c30a39b43.png)
+![image](https://user-images.githubusercontent.com/8367927/229332858-6e320bbe-66ed-487b-8533-1cb210c1bcb4.png)
+![image](https://user-images.githubusercontent.com/8367927/229332870-32f8718e-bdc4-46ae-9619-a23d08fb557f.png)
+![image](https://user-images.githubusercontent.com/8367927/229332885-425e6f29-c970-41d2-99cd-8a1c511e781a.png)
+![image](https://user-images.githubusercontent.com/8367927/229332895-b363de6b-de84-4f0c-8427-8b3585bda0e1.png)
+![image](https://user-images.githubusercontent.com/8367927/229332903-0b145744-a586-4f92-a5f7-331e052004b6.png)
+![image](https://user-images.githubusercontent.com/8367927/229332914-41a188b1-7bef-4c57-b955-ea499254dba8.png)
+![image](https://user-images.githubusercontent.com/8367927/229332919-8ed49700-e28b-4963-9d90-cc367c411b13.png)
+![image](https://user-images.githubusercontent.com/8367927/229332923-3615cf5b-72dd-4f42-bb69-39f9eb02720b.png)
+![image](https://user-images.githubusercontent.com/8367927/229332928-dff14350-31a0-43d6-8af2-400f8bb5d7e3.png)
+![image](https://user-images.githubusercontent.com/8367927/229332936-36e4c752-2038-40bb-9536-3b9d32657233.png)
+![image](https://user-images.githubusercontent.com/8367927/229332943-00583a18-1b8c-41a1-b27d-f65f34c7de64.png)
+![image](https://user-images.githubusercontent.com/8367927/229332950-bd2f12d2-d6cf-4703-acda-c3c48bf20d06.png)
+
+## Videos
+
+- [How to Build a PC - Step by Step Beginners Guide](https://youtu.be/cMSj8DgnmaQ?list=PLPAaRfOkZNZ-o_Kw3NmcOVgbPVNVt_m6l)
