@@ -72,6 +72,9 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 ![image](https://user-images.githubusercontent.com/8367927/229332919-8ed49700-e28b-4963-9d90-cc367c411b13.png)
 ![image](https://user-images.githubusercontent.com/8367927/229332923-3615cf5b-72dd-4f42-bb69-39f9eb02720b.png)
 ![image](https://user-images.githubusercontent.com/8367927/229332928-dff14350-31a0-43d6-8af2-400f8bb5d7e3.png)
+![image](https://user-images.githubusercontent.com/8367927/229333264-19cfd1c2-66f2-4a3b-8be3-2df47894b511.png)
+![image](https://user-images.githubusercontent.com/8367927/229333256-6e21cb79-b9f6-4b76-b97d-ae44dd1ac339.png)
+![image](https://user-images.githubusercontent.com/8367927/229333245-1affd266-77b0-4a43-838a-62f6d3df7ea2.png)
 ![image](https://user-images.githubusercontent.com/8367927/229332936-36e4c752-2038-40bb-9536-3b9d32657233.png)
 ![image](https://user-images.githubusercontent.com/8367927/229332943-00583a18-1b8c-41a1-b27d-f65f34c7de64.png)
 ![image](https://user-images.githubusercontent.com/8367927/229332950-bd2f12d2-d6cf-4703-acda-c3c48bf20d06.png)
@@ -79,3 +82,5 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 ## Videos
 
 - [How to Build a PC - Step by Step Beginners Guide](https://youtu.be/cMSj8DgnmaQ?list=PLPAaRfOkZNZ-o_Kw3NmcOVgbPVNVt_m6l)
+- [Case Management](https://pixelday.github.io/workstation-pc/assets/case-management.mov)
+- [Interior Reveal](https://pixelday.github.io/workstation-pc/assets/interior-reveal.mov)
