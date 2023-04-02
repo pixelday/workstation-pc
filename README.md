@@ -20,4 +20,4 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 | ![image](https://user-images.githubusercontent.com/41975478/228749425-f7e1b58a-1701-448b-83f7-a175847080d9.png) | Noctua | NF-F12 PWM chromax.Black.swap 120mm | Case Fan | 4<br>(front-bottom intake, bottom-front intake, bottom-rear intake, rear exhaust) |  |
 | ![image](https://user-images.githubusercontent.com/41975478/228748748-d5aed7c4-ed1a-4ec2-adaa-43b0dbfe3c81.png) | Thermalright | ASF-Black AM5 CPU Holder | Anti-Bending Contact Frame | 1 |  |
 | ![image](https://user-images.githubusercontent.com/41975478/228749220-1e1b0f01-05ba-47bd-a600-cb1cb043d557.png) | PANO-MOUNTS | Graphics Card GPU Brace | Anti-Sag Stand | 1 |  |
-| ![image](https://user-images.githubusercontent.com/41975478/228749467-bdbf1850-53ff-49eb-8de1-9a7b16b9f4b8.png) | Prolimatech | Pk-3 Nano Aluminum - 5g | Thermal Compound | 1 |  |
+| ![image](https://user-images.githubusercontent.com/8367927/229331751-7004bfd1-40ec-4249-8ede-cd298f52d511.png) | Prolimatech | Pk-3 Nano Aluminum - 5g | Thermal Compound | 1 |  |
