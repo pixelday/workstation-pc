@@ -1,5 +1,11 @@
 # Workstation PC
 
+## Table of Contents
+1. [Part List](#part-list)
+2. [Motherboard Layout](#motherboard-layout)
+3. [Case Fan Layout](#Case-fan-layout)
+4. [Power Supply Connector Layout](#power-supply-connector-layout)
+
 ## Part List
 
 View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewType=list)
@@ -22,6 +28,16 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 | ![image](https://user-images.githubusercontent.com/41975478/228749220-1e1b0f01-05ba-47bd-a600-cb1cb043d557.png) | PANO-MOUNTS | Graphics Card GPU Brace | Anti-Sag Stand | 1 |  |
 | ![image](https://user-images.githubusercontent.com/8367927/229331751-7004bfd1-40ec-4249-8ede-cd298f52d511.png) | Prolimatech | [Pk-3 Nano Aluminum - 5g](http://www.prolimatech.com/en/products/detail.asp?id=1582) | Thermal Compound | 1 |  |
 
+## Motherboard Layout
+
+![image](https://user-images.githubusercontent.com/8367927/229332392-85706731-1216-4a27-91d4-cb8ffbde5d14.png)
+
+![image](https://user-images.githubusercontent.com/8367927/229332341-eea5c472-77d5-43a4-bae7-9db30175c7d4.png)
+
 ## Case Fan Layout
 
 [![image](https://user-images.githubusercontent.com/8367927/229331914-ca430e26-f829-45a1-ad68-a02a7d59835f.png)](https://pixelday.github.io/workstation-pc/assets/case-fan-chart.pdf)
+
+## Power Supply Connector Layout
+
+![image](https://user-images.githubusercontent.com/8367927/229332368-07e1058d-18f9-47af-bb10-f5a6eafea882.png)
