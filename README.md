@@ -21,3 +21,7 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 | ![image](https://user-images.githubusercontent.com/41975478/228748748-d5aed7c4-ed1a-4ec2-adaa-43b0dbfe3c81.png) | Thermalright | ASF-Black AM5 CPU Holder | Anti-Bending Contact Frame | 1 |  |
 | ![image](https://user-images.githubusercontent.com/41975478/228749220-1e1b0f01-05ba-47bd-a600-cb1cb043d557.png) | PANO-MOUNTS | Graphics Card GPU Brace | Anti-Sag Stand | 1 |  |
 | ![image](https://user-images.githubusercontent.com/8367927/229331751-7004bfd1-40ec-4249-8ede-cd298f52d511.png) | Prolimatech | Pk-3 Nano Aluminum - 5g | Thermal Compound | 1 |  |
+
+## Case Fan Layout
+
+[![image](https://user-images.githubusercontent.com/8367927/229331914-ca430e26-f829-45a1-ad68-a02a7d59835f.png)](https://pixelday.github.io/workstation-pc/assets/case-fan-chart.pdf)
