@@ -1,4 +1,4 @@
-# Workstation PC
+# "Beeast Node" Workstation PC `#beastnode`
 
 ## Table of Contents
 1. [Part List](#part-list)
@@ -81,6 +81,6 @@ View on [Amazon.com](https://www.amazon.com/hz/wishlist/ls/2VGFDNAYOAE9Z?viewTyp
 
 ## Videos
 
-- [How to Build a PC - Step by Step Beginners Guide](https://youtu.be/cMSj8DgnmaQ?list=PLPAaRfOkZNZ-o_Kw3NmcOVgbPVNVt_m6l)
-- [Case Management](https://pixelday.github.io/workstation-pc/assets/case-management.mov)
+- [How to Build a PC - Step by Step Beginners Guide on YouTube](https://youtu.be/cMSj8DgnmaQ?list=PLPAaRfOkZNZ-o_Kw3NmcOVgbPVNVt_m6l)
+- [Cable Management](https://pixelday.github.io/workstation-pc/assets/case-management.mov)
 - [Interior Reveal](https://pixelday.github.io/workstation-pc/assets/interior-reveal.mov)
